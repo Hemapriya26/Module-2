@@ -10,7 +10,7 @@ To write a Python program to convert the number **16** into its **binary represe
 
 ## 🧾 Program
 ```
-a = 16
+a = int(input())
 print(bin(a))
 
 ```
